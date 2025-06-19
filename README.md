@@ -1,3 +1,4 @@
+
 # Blockchain Study-to-Earn Platform
 
 ## Project Description
@@ -136,7 +137,6 @@ For support and questions, please open an issue on GitHub or contact our develop
 
 ---
 
-*Built with ❤ for the future of decentralized education*   
-Contracts address:0x119C77Fa7021f4200446D1Eb95f6A3f6E707ac09
-![image](https://github.com/user-attachments/assets/55e6aa56-6f0f-49c6-bb5c-bfb5cde85988)
-
+*Built with ❤ for the future of decentralized education*
+contract address:0x119C77Fa7021f4200446D1Eb95f6A3f6E707ac09
+![image](https://github.com/user-attachments/assets/2d4e2af1-8cfc-4784-a433-f97ca297a1a0)
